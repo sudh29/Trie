@@ -8,6 +8,6 @@
 
 [3 Print Anagrams Together](3_Print_Anagrams_Together.py)
 
-
+[4 Phone directory](4_Phone_directory.py)
 
 [5 Unique rows boolean matrix](5_Unique_rows_boolean_matrix.py)
