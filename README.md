@@ -7,3 +7,7 @@
 [2 Word Break Problem Trie solution](2_Word_Break_Problem_Trie_solution.py)
 
 [3 Print Anagrams Together](3_Print_Anagrams_Together.py)
+
+
+
+[5 Unique rows boolean matrix](5_Unique_rows_boolean_matrix.py)
